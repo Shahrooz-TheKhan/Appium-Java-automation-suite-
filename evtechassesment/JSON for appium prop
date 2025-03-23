@@ -1,0 +1,6 @@
+{
+  "appium:app": "/Users/shahroozkhan/IdeaProjects/evtechassesment/apps/universal.apk",
+  "appium:platformName": "Android",
+  "appium:deviceName": "Pixel7",
+  "appium:automationName": "UiAutomator2"
+}
