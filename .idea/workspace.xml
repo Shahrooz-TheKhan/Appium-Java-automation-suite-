@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0832468c-7b81-45f8-a81c-c6fe48ee45de" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YNLUQkJ5286Ian6h9WM1T7u6XK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shahroozkhan/IdeaProjects/evtechassesment/apps&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/shahroozkhan/IdeaProjects/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="loginPageTestAndroid.enterInvalidEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technicalassesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evenergyapp.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evenergyapp.android" />
+      <option name="MAIN_CLASS_NAME" value="evenergyapp.android.loginPageTestAndroid" />
+      <option name="METHOD_NAME" value="enterInvalidEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginPageTestAndroid.enterNoPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technicalassesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evenergyapp.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evenergyapp.android" />
+      <option name="MAIN_CLASS_NAME" value="evenergyapp.android.loginPageTestAndroid" />
+      <option name="METHOD_NAME" value="enterNoPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginPageTestAndroid.successfulLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technicalassesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evenergyapp.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evenergyapp.android" />
+      <option name="MAIN_CLASS_NAME" value="evenergyapp.android.loginPageTestAndroid" />
+      <option name="METHOD_NAME" value="successfulLoginTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signupFlowTestsAndroid.chargingLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technicalassesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evenergyapp.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evenergyapp.android" />
+      <option name="MAIN_CLASS_NAME" value="evenergyapp.android.signupFlowTestsAndroid" />
+      <option name="METHOD_NAME" value="chargingLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDriveTheAppFlowTests.dashboardTourPopUps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technicalassesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evenergyapp.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evenergyapp.android" />
+      <option name="MAIN_CLASS_NAME" value="evenergyapp.android.testDriveTheAppFlowTests" />
+      <option name="METHOD_NAME" value="dashboardTourPopUps" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testDriveTheAppFlowTests.dashboardTourPopUps" />
+        <item itemvalue="JUnit.loginPageTestAndroid.enterNoPassword" />
+        <item itemvalue="JUnit.loginPageTestAndroid.successfulLoginTest" />
+        <item itemvalue="JUnit.loginPageTestAndroid.enterInvalidEmail" />
+        <item itemvalue="JUnit.signupFlowTestsAndroid.chargingLocation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0832468c-7b81-45f8-a81c-c6fe48ee45de" name="Changes" comment="" />
+      <created>1700361106159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700361106159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
